@@ -1,0 +1,28 @@
+# 3d
+
+---
+
+# battery_holder
+
+<table>
+<tr valign="top">
+<td><img src="battery_holder.png" height="180"></td>
+</tr>
+</table>
+
+[.m3d](./battery_holder.m3d) [.png](./battery_holder.png) [.stp](./battery_holder.stp)
+
+---
+
+# frame
+
+<table>
+<tr valign="top">
+<td><img src="frame.png" height="180"></td>
+</tr>
+</table>
+
+[.m3d](./frame.m3d) [.png](./frame.png) [.stp](./frame.stp)
+
+---
+
