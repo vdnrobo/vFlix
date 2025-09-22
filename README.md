@@ -4,7 +4,7 @@ vFlix (vdn + flight + X) is a fork of the open-source drone project Flix (author
 
 <table>
 <tr valign="top">
-<td><img src="./img/pre-assembled" wide="600"></td>
+<td><img src="./img/pre-assembled.png" wide="600"></td>
 </tr>
 </table>
 
