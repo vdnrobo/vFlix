@@ -2,6 +2,12 @@
 
 vFlix (vdn + flight + X) is a fork of the open-source drone project Flix (authored by Oleg Kalachev). It is based on ESP32, programmed in Arduino IDE, CAD - KOMPAS-3D v23.
 
+<table>
+<tr valign="top">
+<td><img src="./img/pre-assembled" wide="600"></td>
+</tr>
+</table>
+
 ---
 
 Planned changes:
