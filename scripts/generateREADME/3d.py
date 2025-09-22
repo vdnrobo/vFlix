@@ -39,7 +39,7 @@ def main():
             links = []
             for ext in sorted(extensions):
                 if ext in groups[name]:
-                    links.append(f'`[{ext}](./{name}{ext})`')
+                    links.append(f'[`{ext}`](./{name}{ext})')
 
             md_file.write(' '.join(links) + '\n\n---\n\n')
 
