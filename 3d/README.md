@@ -2,6 +2,18 @@
 
 ---
 
+# assembled
+
+<table>
+<tr valign="top">
+<td><img src="assembled.png" height="180"></td>
+</tr>
+</table>
+
+[`.png`](./assembled.png) [`.stp`](./assembled.stp)
+
+---
+
 # battery_holder
 
 <table>
