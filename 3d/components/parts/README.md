@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-[`.m3d`](./ESP WROOM 32.m3d) [`.png`](./ESP WROOM 32.png) [`.stp`](./ESP WROOM 32.stp)
+[.m3d](./ESP WROOM 32.m3d) [.png](./ESP WROOM 32.png) [.stp](./ESP WROOM 32.stp)
 
 ---
 
@@ -22,7 +22,7 @@
 </tr>
 </table>
 
-[`.m3d`](./Wemos ESP32 D1 Mini.m3d) [`.png`](./Wemos ESP32 D1 Mini.png) [`.stp`](./Wemos ESP32 D1 Mini.stp)
+[.m3d](./Wemos ESP32 D1 Mini.m3d) [.png](./Wemos ESP32 D1 Mini.png) [.stp](./Wemos ESP32 D1 Mini.stp)
 
 ---
 
