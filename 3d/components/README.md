@@ -1,4 +1,4 @@
-# 
+# components
 
 ---
 
@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-[.m3d](./battery.m3d) [.png](./battery.png) [.stp](./battery.stp)
+[.m3d](./"battery.m3d") [.png](./"battery.png") [.stp](./"battery.stp")
 
 ---
 
@@ -22,7 +22,7 @@
 </tr>
 </table>
 
-[.a3d](./controller.a3d) [.png](./controller.png) [.stp](./controller.stp)
+[.a3d](./"controller.a3d") [.png](./"controller.png") [.stp](./"controller.stp")
 
 ---
 
@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-[.m3d](./imu.m3d) [.png](./imu.png) [.stp](./imu.stp)
+[.m3d](./"imu.m3d") [.png](./"imu.png") [.stp](./"imu.stp")
 
 ---
 
@@ -46,7 +46,7 @@
 </tr>
 </table>
 
-[.m3d](./motor.m3d) [.png](./motor.png) [.stp](./motor.stp)
+[.m3d](./"motor.m3d") [.png](./"motor.png") [.stp](./"motor.stp")
 
 ---
 

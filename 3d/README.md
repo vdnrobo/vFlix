@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-[.a3d](./assembled.a3d) [.png](./assembled.png) [.stp](./assembled.stp)
+[.a3d](./"assembled.a3d") [.png](./"assembled.png") [.stp](./"assembled.stp")
 
 ---
 
@@ -22,7 +22,7 @@
 </tr>
 </table>
 
-[.m3d](./battery_holder.m3d) [.png](./battery_holder.png) [.stp](./battery_holder.stp)
+[.m3d](./"battery_holder.m3d") [.png](./"battery_holder.png") [.stp](./"battery_holder.stp")
 
 ---
 
@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-[.m3d](./controller_holder.m3d) [.png](./controller_holder.png) [.stp](./controller_holder.stp)
+[.m3d](./"controller_holder.m3d") [.png](./"controller_holder.png") [.stp](./"controller_holder.stp")
 
 ---
 
@@ -46,7 +46,7 @@
 </tr>
 </table>
 
-[.m3d](./frame.m3d) [.png](./frame.png) [.stp](./frame.stp)
+[.m3d](./"frame.m3d") [.png](./"frame.png") [.stp](./"frame.stp")
 
 ---
 
